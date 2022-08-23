@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BioSurroundDemo/app/src/main/res/drawable/button_connect.xml" value="0.4755" />
+        <entry key="..\:/BioSurroundDemo/app/src/main/res/drawable/button_start.xml" value="0.4755" />
+        <entry key="..\:/BioSurroundDemo/app/src/main/res/drawable/ic_bluetooth.xml" value="0.48" />
+        <entry key="..\:/BioSurroundDemo/app/src/main/res/drawable/ic_check_circle.xml" value="0.48" />
+        <entry key="..\:/BioSurroundDemo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/BioSurroundDemo/app/src/main/res/layout/activity_start.xml" value="0.3098958333333333" />
+        <entry key="..\:/BioSurroundDemo/app/src/main/res/layout/ble_device_item.xml" value="0.3140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
